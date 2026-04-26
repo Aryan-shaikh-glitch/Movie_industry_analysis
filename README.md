@@ -173,12 +173,42 @@ ROI by language
 
 ### Dashboard Screenshots
 <!-- Add your screenshots below -->
-![Executive Summary](screenshots/page1_executive_summary.png)
-![Genre Analysis](screenshots/page2_genre_analysis.png)
-![Trends & Patterns](screenshots/page3_trends.png)
-![Recommendations](screenshots/page4_recommendations.png)
+![Executive Summary](page1_executive_summary.png)
+![Genre Analysis](page2_genre_&_financial_analysis.png)
+![Trends & Patterns](page3_trends_&_patterns.png)
+![Recommendations](page4_strategic_recommendations.png)
 
 
 ---
 
 ## Project Structure
+
+## Project Structure
+movie-analysis-case-study/
+│
+├── README.md
+├── screenshots/
+│   ├── page1_executive_summary.png
+│   ├── page2_genre_analysis.png
+│   ├── page3_trends.png
+│   └── page4_recommendations.png
+├── sql/
+│   ├── 01_data_cleaning.sql
+│   ├── 02_feature_engineering.sql
+│   ├── 03_genre_parsing.sql
+│   └── 04_production_company_parsing.sql
+├── dashboard/
+│   └── Movie_Analysis_Dashboard.pbix
+└── data/
+└── (Dataset available on Kaggle — link above)
+
+---
+
+## About
+**Aryan** | Aspiring Business Analyst  
+Google Data Analytics Certificate | SQL | BigQuery | Power BI  
+
+[LinkedIn](your-linkedin-url) · [GitHub](your-github-url)
+
+*This is Case Study 3 of my BA portfolio. Previous projects include 
+Cyclistic Bike Share Analysis and Bellabeat Health Data Analysis.*
