@@ -208,7 +208,7 @@ movie-analysis-case-study/
 **Aryan** | Aspiring Business Analyst  
 Google Data Analytics Certificate | SQL | BigQuery | Power BI  
 
-[LinkedIn](your-linkedin-url) · [GitHub](your-github-url)
+[LinkedIn](www.linkedin.com/in/aryan-shaikh-802337307)
 
 *This is Case Study 3 of my BA portfolio. Previous projects include 
 Cyclistic Bike Share Analysis and Bellabeat Health Data Analysis.*
